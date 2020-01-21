@@ -143,9 +143,9 @@ def get_sytem_timestamp():
 
 def send_email_alert(msg_as_string):
 
-    email = 'sybaguio788@gmail.com'
-    password = 'Paopao788'
-    mail_to = 'jpaolosy@gmail.com'
+    email = 'alerts@gmail.com'
+    password = 'PASSWORD'
+    mail_to = 'juan@gmail.com'
 
     try:
         try:
